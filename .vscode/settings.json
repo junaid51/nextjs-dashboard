@@ -1,3 +1,12 @@
 {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "eslint.codeActionsOnSave.rules": null,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "typescriptreact"
+    ],
+    "eslint.debug": true,
+    "eslint.ignoreUntitled": true,
 }
